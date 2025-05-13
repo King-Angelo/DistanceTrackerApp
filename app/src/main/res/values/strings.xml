@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DistanceTrackerApp</string>
+    <string name="history_title">Tracking History</string>
+</resources>
